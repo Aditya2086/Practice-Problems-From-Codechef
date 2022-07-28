@@ -1,1 +1,1 @@
-# Practice-Problems-From-Codechef
+# Practice Problems in Java From Codechef
